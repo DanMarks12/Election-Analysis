@@ -29,7 +29,8 @@ Raymon Anthony Doane: 3.1% (11,606)
 
 ### Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 Diana Degette won the election by a landslide. Her vote count was 272,892, 73.8% of the votes! 
-[]!(winning_candidate_py.PNG)
+
+![](winner.PNG) 
 
 Similar to the way we tallied our county votes and found top counties with the same method we applied this to candidate analysis. The snipet above is able to allocate each vote from our CSV file to each candidate, and then compare the totals to find the greatest.
 
